@@ -39,7 +39,7 @@ Nodes match the candidate containers above; no dependency edges are evidenced. T
 
 ```mermaid
 C4Container
-  title Online Boutique - Run A contracts; deployment boundaries unverified
+  title Online Boutique - Run A contracts deployment boundaries unverified
   Person(user, "End user", "Entry point not evidenced in the provided files")
   System_Boundary(shop, "Online Boutique - candidate service containers") {
     Container(s0, "CartService", "Protobuf 3 RPC contract", "Add items, retrieve carts, and empty carts")
