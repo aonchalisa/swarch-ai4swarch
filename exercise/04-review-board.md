@@ -35,7 +35,7 @@
 
 **ADR ที่รีวิว:** `docs/adr/0002-post-order-processing.md` โดย ชาลิสา
 **สมาชิกและบทบาท:** 
-- ชาลิสา ผู้รับผิดชอบ ADR
+- สถาปนิกและ AI analyst: ชาลิสา
 - Product owner (PO): สมาชิกคนที่2
 - Site reliability engineer (SRE): สมาชิกคนที่3
 
